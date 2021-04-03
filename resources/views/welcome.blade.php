@@ -44,7 +44,7 @@
                         </g>
                     </svg>
 
-                    <img class="h-16 w-auto text-gray-700 sm:h-20" src="https://raw.githubusercontent.com/squadmanager/important-squadmanager/main/assets/logo.svg?token=ACNZEYIBTCKUPMV73CBFNQDAM7XB6" alt="">
+                    <img class="h-16 w-auto text-gray-700 sm:h-20 ml-4" src="https://raw.githubusercontent.com/squadmanager/important-squadmanager/main/assets/logo.svg?token=ACNZEYIBTCKUPMV73CBFNQDAM7XB6" alt="">
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
