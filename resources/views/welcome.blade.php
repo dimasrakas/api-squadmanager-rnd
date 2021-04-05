@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center space-x-4 pt-8 sm:justify-start sm:pt-0">
-                    <img class="h-16 w-auto text-gray-700 sm:h-20 ml-4" src="https://raw.githubusercontent.com/squadmanager/important-squadmanager/main/assets/logo.svg?token=ACNZEYIBTCKUPMV73CBFNQDAM7XB6" alt="">
+                    <img class="h-16 w-auto text-gray-700 sm:h-20 ml-4" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="">
                 </div>
 
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
@@ -51,7 +51,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                    Telah update untuk Enveyor
                                 </div>
                             </div>
                         </div>
